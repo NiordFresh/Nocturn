@@ -7,11 +7,11 @@ Built on ModernWPF, Nocturn combines a modern, intuitive interface with advanced
 ---
 # 🎯 Features
 
-Registry Tweaks – Quickly and safely modify Windows registry entries to improve network performance, stability, and overall system responsiveness.
-System Services Management – Enable, disable, and configure Windows services with a single click.
-Performance Optimization – Optimize network, memory, and system settings tailored to your hardware and needs.
-Modern Interface – Sleek UI built with ModernWPF for a smooth and intuitive experience.
-And Much More – Continuously evolving tool with easy expandability for additional tweaks and features.
+- Registry Tweaks – Quickly and safely modify Windows registry entries to improve network performance, stability, and overall system responsiveness.
+- System Services Management – Enable, disable, and configure Windows services with a single click.
+- Performance Optimization – Optimize network, memory, and system settings tailored to your hardware and needs.
+- Modern Interface – Sleek UI built with ModernWPF for a smooth and intuitive experience.
+- And Much More – Continuously evolving tool with easy expandability for additional tweaks and features.
 
 ---
 # ⚙️ System Requirements
