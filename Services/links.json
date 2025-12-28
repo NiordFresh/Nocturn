@@ -1,12 +1,6 @@
 {
-	"_meta": {
-    "description": "Auto-updated links to the latest versions of selected software.",
-    "last_updated": "2025-12-28T17:41:00Z",
-    "source": "https://github.com/NiordFresh/Nocturn",
-    "maintainer": "NiordFresh"
-  },
   "ungoogled_chromium-latest": "https://github.com/macchrome/winchrome/releases/download/v142.7444.229-M142.0.7444.229-r1522585-Win64/142.0.7444.229_ungoogled_mini_installer.exe",
   "ungoogled_chromium-latest-9600": "https://github.com/macchrome/winchrome/releases/download/v109.5414.120-M109.0.5414.120-r1070088-Win64/109.0.5414.120_ungoogled_mini_installer.exe",
   "sdio-latest": "https://www.glenn.delahoy.com/downloads/sdio/SDIO_1.16.5.791.zip"
-
 }
+
