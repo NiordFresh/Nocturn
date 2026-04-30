@@ -65,7 +65,7 @@
   "Tor_Browser":[
     {"name":"Latest","build":"10240,99999","url":"xyz","port":"false","portable":"false"},
     {"name":"109 Latest for W8.1","build":"9600,9600","url":"xyz","port":"false","portable":"false"}
-  ]
+  ],
   "Start_Menu":[
     {"name":"Latest","build":"9600,9600","url":"xyz","port":"false","portable":"false"},
     {"name":"Latest","build":"10240,19046","url":"xyz","port":"false","portable":"false"},
