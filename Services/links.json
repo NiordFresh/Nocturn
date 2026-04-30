@@ -1,85 +1,216 @@
 {
-  "ungoogled_chromium-latest": "https://github.com/macchrome/winchrome/releases/download/v142.7444.229-M142.0.7444.229-r1522585-Win64/142.0.7444.229_ungoogled_mini_installer.exe",
-  "ungoogled_chromium-latest-9600": "https://github.com/macchrome/winchrome/releases/download/v109.5414.120-M109.0.5414.120-r1070088-Win64/109.0.5414.120_ungoogled_mini_installer.exe",
-  "librewolf-latest": "https://gitlab.com/api/v4/projects/44042130/packages/generic/librewolf/146.0.1-1/librewolf-146.0.1-1-windows-x86_64-setup.exe",
-  "librewolf_for_windows_7-latest": "https://github.com/e3kskoy7wqk/Firefox-for-windows-7/releases/download/144.0/librewolf-144.0-1.en-US.win64.installer.exe",
-  "thorium-avx2-latest": "https://github.com/Alex313031/Thorium-Win/releases/download/M130.0.6723.174/thorium_AVX2_mini_installer.exe",
-  "thorium-avx-latest": "https://github.com/Alex313031/Thorium-Win/releases/download/M130.0.6723.174/thorium_AVX_mini_installer.exe",
-  "thorium-see4-latest": "https://github.com/Alex313031/Thorium-Win/releases/download/M130.0.6723.174/thorium_SSE4_mini_installer.exe",
-  "thorium-see4-latest-9600": "https://github.com/Alex313031/thorium-legacy/releases/download/M122.0.6261.171/thorium_SSE4_mini_installer.exe",
-  "thorium-see3-latest-9600": "https://github.com/Alex313031/thorium-legacy/releases/download/M122.0.6261.171/thorium_SSE3_mini_installer.exe",
-  "mercury-avx2-latest": "https://github.com/Alex313031/Mercury/releases/download/v.129.0.2/mercury_129.0.2_win64_AVX2_installer.exe",
-  "mercury-avx-latest": "https://github.com/Alex313031/Mercury/releases/download/v.129.0.2/mercury_129.0.2_win64_AVX_installer.exe",
-  "mercury-see4-latest": "https://github.com/Alex313031/Mercury/releases/download/v.129.0.2/mercury_129.0.2_win64_SSE4_installer.exe",
-  "mercury-avx-latest-9600": "https://github.com/Alex313031/Mercury-Win7/releases/download/v.115.11.0/mercury_115.11.0_win64_AVX_installer.exe",
-  "mercury-see4-latest-9600": "https://github.com/Alex313031/Mercury-Win7/releases/download/v.115.11.0/mercury_115.11.0_win64_SSE4_installer.exe",
-  "floorp-latest": "https://github.com/Floorp-Projects/Floorp/releases/download/v12.9.2/floorp-windows-x86_64.installer.exe",
-  "floorp-9600": "https://archive.org/download/FloorpBrowser11.13.3/Floorp_11.13.3.exe",
-  "waterfox-latest": "https://cdn.waterfox.com/waterfox/releases/6.6.7/WINNT_x86_64/Waterfox%20Setup%206.6.7.exe",
-  "waterfox-latest-9600": "none",
-  "redfox-ESR-140": "https://github.com/Eclipse-Community/r3dfox/releases/download/v140.6.0esr/r3dfox_esr-140.6.0.en-US.win64.installer.exe",
-  "redfox-ESR-128": "https://github.com/Eclipse-Community/r3dfox/releases/download/v128.14.1-2esr/r3dfox_esr-128.14.1.en-US.win64.installer.exe",
-  "firefox-ESR-latest": "https://download.mozilla.org/?product=firefox-esr-msi-latest-ssl&os=win64&lang=en-US",
-  "firefox-stable-latest": "https://download.mozilla.org/?product=firefox-msi-latest-ssl&os=win64&lang=en-US",
-  "firefox-beta-latest": "https://download.mozilla.org/?product=firefox-beta-msi-latest-ssl&os=win64&lang=en-US",
-  "firefox-dev-latest": "https://download.mozilla.org/?product=firefox-devedition-msi-latest-ssl&os=win64&lang=en-US",
-  "chromium_hibiki-latest": "https://github.com/Hibbiki/chromium-win64/releases/download/v143.0.7499.170-r1536371/mini_installer.exe",
-  "chromium_hibiki-latest-9600": "https://github.com/Hibbiki/chromium-win64/releases/download/v109.0.5414.120-r1070088/mini_installer.nosync.exe",
-  "chromium_robrich-latest": "https://github.com/RobRich999/Chromium_Clang/releases/download/v145.0.7581.0-r1559302-win64-avx/mini_installer.exe",
-  "chromium_robrich-latest-9600": "https://github.com/RobRich999/Chromium_Clang/releases/download/v109.0.5412.0-r1069239-win64-avx/mini_installer.exe",
-  "chrome-stable": "https://dl.google.com/chrome/install/ChromeStandaloneSetup64.exe",
-  "chrome-beta": "https://dl.google.com/chrome/install/beta/ChromeBetaStandaloneSetup64.exe",
-  "chrome-dev": "https://dl.google.com/chrome/install/dev/ChromeDevStandaloneSetup64.exe",
-  "chrome-ent": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi",
-  "chrome-beta-ent": "https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi",
-  "chrome-dev-ent": "https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi",
-  "chrome-stable-9600": "none",
-  "chromium_for_windows_7-latest": "https://github.com/e3kskoy7wqk/Chromium-for-windows-7/releases/download/143.0.7446.1/mini_installer.exe",
-  "brave-latest": "https://laptop-updates.brave.com/download/BRV014",
-  "supermium-latest": "https://github.com/win32ss/supermium/releases/download/v138-r8/supermium_138_64_setup.exe",
-  "startisbackplus-latest": "https://pby.ru/StartIsBackPlus_setup.exe",
-  "startisbackplusplus-latest": "https://startisback.sfo3.cdn.digitaloceanspaces.com/StartIsBackPlusPlus_setup.exe",
-  "startallback-latest": "https://startisback.sfo3.cdn.digitaloceanspaces.com/StartAllBack_3.9.20_setup.exe",
-  "startisbackplus_preactivated-latest": "none",
-  "startisbackplusplus_preactivated-latest": "none",
-  "startallback_preactivated-latest": "none",
-  "explorerpatcher-latest": "https://github.com/valinet/ExplorerPatcher/releases/download/26100.4946.69.6_7384790/ep_setup.exe",
-  "modernmix-latest": "https://cdn.stardock.us/downloads/public/software/modernmix/ModernMix_setup.exe",
-  "modernmix_preactivated-latest": "https://cdn.stardock.us/downloads/public/software/modernmix/ModernMix_setup.exe",
-  "7_zip-latest": "https://7-zip.org/a/7z2501-x64.exe",
-  "winrar-latest": "https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-713.exe",
-  "discord-stable-latest": "https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x64",
-  "discord-stable-latest-9600": "https://sourceforge.net/projects/google-chrome-windows-7/files/discord_new/app_1.0.9217_x64_Windows7.7z/download",
-  "notepadplusplus-latest": "https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-713.exe",
-  "sublimetext-latest": "https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-713.exe",
-  "atom_ng-latest": "https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-713.exe",
-  "vscodium-latest": "https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-713.exe",
-  "codium-latest": "https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-713.exe",
-  "vscode-latest": "https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-713.exe",
-  "vscode-latest-9600": "https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-713.exe",
-  "vscode_for_windows_7-latest": "https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-713.exe",
-  "system_informer-latest": "https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-713.exe",
-  "appx_app_installer-latest": "https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-713.exe",
-  "mpc_be-latest": "https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-713.exe",
-  "vlc_media-latest": "https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-713.exe",
-  "aimp-latest": "https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-713.exe",
-  "dopamine-latest": "https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-713.exe",
-  "dopamine-release2.0.10": "https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-713.exe",
-  "driver_booster-latest": "https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-713.exe",
-  "driver_booster-8.2": "https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-713.exe",
-  "sdio-latest": "https://www.glenn.delahoy.com/downloads/sdio/SDIO_1.16.5.791.zip",
-  "nvcleanstall-latest": "https://www.glenn.delahoy.com/downloads/sdio/SDIO_1.16.5.791.zip",
-  "nvidia_control_panel-latest": "https://www.glenn.delahoy.com/downloads/sdio/SDIO_1.16.5.791.zip",
-  "amd_radeon_software-latest": "https://www.glenn.delahoy.com/downloads/sdio/SDIO_1.16.5.791.zip",
-  "nvidiaprofileinspector-latest": "https://www.glenn.delahoy.com/downloads/sdio/SDIO_1.16.5.791.zip",
-  "msi_afterburner-latest": "https://www.glenn.delahoy.com/downloads/sdio/SDIO_1.16.5.791.zip",  
-  "asus_gpu_tweak_3-latest": "https://www.glenn.delahoy.com/downloads/sdio/SDIO_1.16.5.791.zip",
-  "quickcpu-latest": "https://www.glenn.delahoy.com/downloads/sdio/SDIO_1.16.5.791.zip",  
-  "mem_reduct-latest": "https://www.glenn.delahoy.com/downloads/sdio/SDIO_1.16.5.791.zip",  
-  "oldnewexplorer-latest": "https://www.glenn.delahoy.com/downloads/sdio/SDIO_1.16.5.791.zip",  
-  "lively_wallpaper-legacy": "https://www.glenn.delahoy.com/downloads/sdio/SDIO_1.16.5.791.zip",  
-  "nexus-latest": "https://www.glenn.delahoy.com/downloads/sdio/SDIO_1.16.5.791.zip",  
-  "rainmeter-latest": "https://www.glenn.delahoy.com/downloads/sdio/SDIO_1.16.5.791.zip",  
-  "files-latest": "https://www.glenn.delahoy.com/downloads/sdio/SDIO_1.16.5.791.zip", 
-  "file_pilot-latest": "https://www.glenn.delahoy.com/downloads/sdio/SDIO_1.16.5.791.zip", 
+  "Ungoogled_Chromium":[
+    {"name":"Latest","build":"10240,99999","url":"xyz","port":"false","portable":"false"},
+    {"name":"Latest","build":"9600,9600","url":"xyz","port":"false","portable":"false"},
+    {"name":"Latest by chinczyk 147","build":"9600,9600","url":"xyz","port":"true","portable":"false"}
+  ],
+  "LibreWolf":[
+    {"name":"Latest","build":"10240,99999","url":"xyz","port":"false","portable":"false"},
+    {"name":"Latest 115","build":"9600,9600","url":"xyz","port":"false","portable":"false"},
+    {"name":"Latest - by nfx","build":"9600,9600","url":"xyz","port":"true","portable":"true"},
+    {"name":"Latest - by chinczyk","build":"9600,9600","url":"xyz","port":"true","portable":"false"}
+  ],
+  "Helium":[
+    {"name":"Latest","build":"14393,99999","url":"xyz","port":"false","portable":"false"}
+  ],
+  "Thorium":[
+    {"name":"Latest","build":"10240,99999","url":"xyz","port":"false","portable":"false"},
+    {"name":"109 Latest for W8.1","build":"9600,9600","url":"xyz","port":"false","portable":"false"}
+  ],
+  "Mercury":[
+    {"name":"Latest","build":"10240,99999","url":"xyz","port":"false","portable":"false"},
+    {"name":"Latest for Windows 8.1","build":"9600,9600","url":"xyz","port":"false","portable":"false"},
+    {"name":"Latest for Windows 8.1","build":"9600,9600","url":"xyz","port":"false","portable":"false"}
+  ],
+  "Waterfox":[
+    {"name":"Latest","build":"10240,99999","url":"xyz","port":"false","portable":"false"},
+    {"name":"Latest for Windows 8.1","build":"9600,9600","url":"xyz","port":"false","portable":"false"}
+  ],
+  "RedFox":[
+    {"name":"Latest ESR 140","build":"9600,99999","url":"xyz","port":"false","portable":"false"},
+    {"name":"Latest ESR 128","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
+  ],
+  "Firefox":[
+    {"name":"Latest ESR","build":"10240,99999","url":"xyz","port":"false","portable":"false"},
+    {"name":"Latest Stable","build":"10240,99999","url":"xyz","port":"false","portable":"false"},
+    {"name":"Latest Beta","build":"10240,99999","url":"xyz","port":"false","portable":"false"},
+    {"name":"Latest Developer Edition","build":"10240,99999","url":"xyz","port":"false","portable":"false"},
+    {"name":"Latest ESR 115","build":"9600,99999","url":"xyz","port":"false","portable":"false"},
+    {"name":"Firefox for Windows 75","build":"9600,99999","url":"xyz","port":"false","portable":"false"},
+    {"name":"Firefox for Windows 7wsfs5","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
+  ],
+  "Mullvad_Browser":[
+    {"name":"Latest","build":"10240,99999","url":"xyz","port":"false","portable":"false"},
+    {"name":"109 Latest for W8.1","build":"9600,9600","url":"xyz","port":"false","portable":"false"}
+  ],
+  "Chromium":[
+    {"name":"Latest (Hibbiki)","build":"10240,99999","url":"xyz","port":"false","portable":"false"},
+    {"name":"Latest (Hibbiki) (W8.1)","build":"9600,9600","url":"xyz","port":"false","portable":"false"},
+    {"name":"Latest (RobRich)","build":"10240,99999","url":"xyz","port":"false","portable":"false"},
+    {"name":"109 (RobRich) (W8.1)","build":"9600,9600","url":"xyz","port":"false","portable":"false"},
+    {"name":"Latest-Chrfor7","build":"9600,9600","url":"xyz","port":"false","portable":"false"}
+  ],
+  "Google_Chrome":[
+    {"name":"Latest Stable","build":"10240,99999","url":"xyz","port":"false","portable":"false"},
+    {"name":"Latest Beta","build":"10240,99999","url":"xyz","port":"false","portable":"false"},
+    {"name":"Latest 8.1","build":"9600,9600","url":"xyz","port":"false","portable":"false"},
+    {"name":"Latest 8.1 by Blaukovitch","build":"9600,9600","url":"xyz","port":"false","portable":"false"}
+  ],
+  "Brave":[
+    {"name":"Latest","build":"10240,99999","url":"xyz","port":"false","portable":"false"}
+  ],
+  "Supermium":[
+    {"name":"Latest","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
+  ],
+  "Tor_Browser":[
+    {"name":"Latest","build":"10240,99999","url":"xyz","port":"false","portable":"false"},
+    {"name":"109 Latest for W8.1","build":"9600,9600","url":"xyz","port":"false","portable":"false"}
+  ]
+  "Start_Menu":[
+    {"name":"Latest","build":"9600,9600","url":"xyz","port":"false","portable":"false"},
+    {"name":"Latest","build":"10240,19046","url":"xyz","port":"false","portable":"false"},
+    {"name":"Latest","build":"22000,99999","url":"xyz","port":"false","portable":"false"},
+    {"name":"Preactivated","build":"9600,9600","url":"xyz","port":"false","portable":"false"},
+    {"name":"Preactivated","build":"10240,19046","url":"xyz","port":"false","portable":"false"},
+    {"name":"Preactivated","build":"22000,99999","url":"xyz","port":"false","portable":"false"}
+  ],
+  "ExplorerPatcher":[
+    {"name":"Latest","build":"19043,99999","url":"xyz","port":"false","portable":"false"}
+  ],
+  "ModernMix":[
+    {"name":"Latest","build":"9600,9600","url":"xyz","port":"false","portable":"false"},
+    {"name":"Preactivated","build":"9600,9600","url":"xyz","port":"false","portable":"false"}
+  ],
+  "7zip":[
+    {"name":"Latest","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
+  ],
+  "WinRAR":[
+    {"name":"Latest","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
+  ],
+  "Discord":[
+    {"name":"Latest Stable","build":"17763,99999","url":"xyz","port":"false","portable":"false"},
+    {"name":"Latest 8.1","build":"9600,17762","url":"xyz","port":"false","portable":"false"}
+  ],
+  "Notepad++":[
+    {"name":"Latest","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
+  ],
+  "Sublime_Text":[
+    {"name":"Latest","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
+  ],
+  "VSCodium":[
+    {"name":"Latest","build":"10240,99999","url":"xyz","port":"false","portable":"false"}
+  ],
+  "Codium":[
+    {"name":"Latest","build":"9600,9600","url":"xyz","port":"false","portable":"false"}
+  ],
+  "VSCode":[
+    {"name":"Latest 10","build":"10240,99999","url":"xyz","port":"false","portable":"false"},
+    {"name":"Latest","build":"9600,9600","url":"xyz","port":"false","portable":"false"},
+    {"name":"Latest 8.1","build":"9600,9600","url":"xyz","port":"false","portable":"false"}
+  ],
+  "System_Informer":[
+    {"name":"Latest","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
+  ],
+  "APPX_Installer":[
+    {"name":"Latest","build":"10240,99999","url":"xyz","port":"false","portable":"true"}
+  ],
+  "MPC_BE":[
+    {"name":"Latest","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
+  ],
+  "VLC":[
+    {"name":"Latest","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
+  ],
+  "AIMP":[
+    {"name":"Latest","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
+  ],
+  "Dopamine":[
+    {"name":"Latest","build":"10240,99999","url":"xyz","port":"false","portable":"false"},
+    {"name":"2.0.10","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
+  ],
+  "Driver_Booster":[
+    {"name":"Latest","build":"9600,99999","url":"xyz","port":"false","portable":"false"},
+    {"name":"Portable","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
+  ],
+  "SDIO":[
+    {"name":"Latest","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
+  ],
+  "NVCleanstall":[
+    {"name":"Latest","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
+  ],
+  "NVIDIA_Control_Panel":[
+    {"name":"Latest","build":"14393,99999","url":"xyz","port":"false","portable":"false"}
+  ],
+  "AMD_Radeon":[
+    {"name":"Latest","build":"17763,99999","url":"xyz","port":"false","portable":"false"}
+  ],
+  "NvidiaProfileInspector":[
+    {"name":"Latest","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
+  ],
+  "MSI_Afterburner":[
+    {"name":"Latest","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
+  ],
+  "ASUS_GPU_Tweak":[
+    {"name":"Latest","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
+  ],
+  "QuickCPU":[
+    {"name":"Latest","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
+  ],
+  "MemReduct":[
+    {"name":"Latest","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
+  ],
+  "OldNewExplorer":[
+    {"name":"Latest","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
+  ],
+  "Lively_Wallpaper":[
+    {"name":"Latest","build":"18362,99999","url":"xyz","port":"false","portable":"false"}
+  ],
+  "Nexus":[
+    {"name":"Latest","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
+  ],
+  "Rainmeter":[
+    {"name":"Latest","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
+  ],
+  "Files":[
+    {"name":"Latest","build":"18600,99999","url":"xyz","port":"false","portable":"false"}
+  ],
+  "Groove_Music":[
+    {"name":"2019.22031.10091.0","build":"19043,99999","url":"xyz","port":"false","portable":"false"},
+    {"name":"2019.20112.10111.0","build":"17763,99999","url":"xyz","port":"false","portable":"false"},
+    {"name":"2019.18052.11111.0","build":"14393,99999","url":"xyz","port":"false","portable":"false"},
+    {"name":"2019.16102.10341.1000","build":"14393,99999","url":"xyz","port":"false","portable":"false"}
+  ],
+  "WMP":[
+    {"name":"0.2411.1.0","build":"19043,99999","url":"xyz","port":"false","portable":"false"}
+  ],
+  "Photos":[
+    {"name":"2020.20120.4004.0","build":"17763,99999","url":"xyz","port":"false","portable":"false"},
+    {"name":"2017.35063.44410.1000","build":"17763,99999","url":"xyz","port":"false","portable":"false"},
+    {"name":"2016.1118.10000.2000","build":"17763,99999","url":"xyz","port":"false","portable":"false"}
+  ],
+  "Movies_TV":[
+    {"name":"2019.22091.10061.0","build":"19043,99999","url":"xyz","port":"false","portable":"false"},
+    {"name":"2019.20112.10111.0","build":"17763,99999","url":"xyz","port":"false","portable":"false"},
+    {"name":"2019.18052.10711.0","build":"14393,99999","url":"xyz","port":"false","portable":"false"}
+  ],
+  "Alarms":[
+    {"name":"2022.2304.0.0","build":"19043,99999","url":"xyz","port":"false","portable":"false"},
+    {"name":"2021.2101.28.0","build":"17763,99999","url":"xyz","port":"false","portable":"false"},
+    {"name":"2017.920.157.2000","build":"17763,99999","url":"xyz","port":"false","portable":"false"}
+  ],
+  "Calculator":[
+    {"name":"2021.2403.6.0","build":"19043,99999","url":"xyz","port":"false","portable":"false"},
+    {"name":"2020.2103.8.0","build":"17763,99999","url":"xyz","port":"false","portable":"false"},
+    {"name":"2019.318.2201.0","build":"17763,99999","url":"xyz","port":"false","portable":"false"},
+    {"name":"2018.906.2224.0","build":"17763,99999","url":"xyz","port":"false","portable":"false"}
+  ],
+  "Camera":[
+    {"name":"2022.2407.12.0","build":"19043,99999","url":"xyz","port":"false","portable":"false"},
+    {"name":"2021.105.10.0","build":"17763,99999","url":"xyz","port":"false","portable":"false"},
+    {"name":"2019.425.40.0","build":"17763,99999","url":"xyz","port":"false","portable":"false"},
+    {"name":"2017.727.40.2000","build":"17763,99999","url":"xyz","port":"false","portable":"false"}
+  ],
+  "SoundRecorder":[
+    {"name":"2018.1120.2032.0","build":"17763,99999","url":"xyz","port":"false","portable":"false"},
+    {"name":"2017.510.2143.2000","build":"14393,99999","url":"xyz","port":"false","portable":"false"}
+  ]
 }
