@@ -105,16 +105,17 @@
     {"name":"Latest 8.1","build":"9600,17762","url":"xyz","port":"false","portable":"false"}
   ],
   "Sublime_Text":[
-    {"name":"Latest","build":"9600,99999","url":"https://www.sublimetext.com/download_thanks?target=win-x64","port":"false","portable":"false"}
+    {"name":"Latest","build":"9600,99999","url":"https://www.sublimetext.com/download_thanks?target=win-x64#direct-downloads","port":"false","portable":"false"}
   ],
   "VSCodium":[
-    {"name":"Latest","build":"10240,99999","url":"xyz","port":"false","portable":"false"}
+    {"name":"1.116.02821 - updates enabled","build":"10240,99999","url":"https://github.com/VSCodium/vscodium/releases/download/1.116.02821/VSCodium-x64-1.116.02821.msi","port":"false","portable":"false"},
+    {"name":"1.116.02821 - updates disabled","build":"10240,99999","url":"https://github.com/VSCodium/vscodium/releases/download/1.116.02821/VSCodium-x64-updates-disabled-1.116.02821.msi","port":"false","portable":"false"}
   ],
   "Codium":[
-    {"name":"Latest","build":"9600,9600","url":"xyz","port":"false","portable":"false"}
+    {"name":"1.93.1.24277 ","build":"9600,9600","url":"https://github.com/Alex313031/codium/releases/download/1.93.1.24277/Codium_Setup_1.93.1.24277_win64.exe","port":"false","portable":"false"}
   ],
   "VSCode":[
-    {"name":"Latest 10","build":"10240,99999","url":"xyz","port":"false","portable":"false"},
+    {"name":"Latest 10","build":"10240,99999","url":"https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user","port":"false","portable":"false"},
     {"name":"Latest","build":"9600,9600","url":"xyz","port":"false","portable":"false"},
     {"name":"Latest 8.1","build":"9600,9600","url":"xyz","port":"false","portable":"false"}
   ],
