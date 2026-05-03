@@ -206,7 +206,7 @@
   "Alarms":[
     {"name":"2022.2304.0.0","build":"19043,99999","url":"xyz","port":"false","portable":"false"},
     {"name":"2021.2101.28.0","build":"17763,99999","url":"xyz","port":"false","portable":"false"},
-    {"name":"2017.920.157.2000","build":"17763,99999","url":"xyz","port":"false","portable":"false"}
+    {"name":"2017.920.157.2000","build":"17763,99999","url":"https://ufile.io/q8moovys","port":"false","portable":"false"}
   ],
   "Calculator":[
     {"name":"2021.2403.6.0","build":"19043,99999","url":"xyz","port":"false","portable":"false"},
