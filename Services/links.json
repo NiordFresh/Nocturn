@@ -78,36 +78,34 @@
     {"name":"Latest","build":"10240,99999","url":"https://www.torproject.org/dist/torbrowser/15.0.11/tor-browser-windows-x86_64-portable-15.0.11.exe","port":"false","portable":"false"},
     {"name":"15.0.10_ESR140.10.0","build":"9600,9600","url":"https://github.com/NiordFresh/TorBrowser-for-Windows-8/releases/download/15.0.10_ESR140.10.0/torbrowser_15.0.10_ESR140.10.0_win8_portable-NFX.zip","port":"false","portable":"false"}
   ],
-  "Start_Menu":[
-    {"name":"Latest","build":"9600,9600","url":"xyz","port":"false","portable":"false"},
-    {"name":"Latest","build":"10240,19046","url":"xyz","port":"false","portable":"false"},
-    {"name":"Latest","build":"22000,99999","url":"xyz","port":"false","portable":"false"},
+  "SiB":[
+    {"name":"Latest","build":"9600,9600","url":"https://pby.ru/StartIsBackPlus_setup.exe","port":"false","portable":"false"},
+    {"name":"Latest","build":"10240,21000","url":"https://startisback.sfo3.cdn.digitaloceanspaces.com/StartIsBackPlusPlus_setup.exe","port":"false","portable":"false"},
+    {"name":"Latest","build":"22000,99999","url":"https://www.startallback.com/download.php","port":"false","portable":"false"},
     {"name":"Preactivated","build":"9600,9600","url":"xyz","port":"false","portable":"false"},
     {"name":"Preactivated","build":"10240,19046","url":"xyz","port":"false","portable":"false"},
     {"name":"Preactivated","build":"22000,99999","url":"xyz","port":"false","portable":"false"}
   ],
   "ExplorerPatcher":[
-    {"name":"Latest","build":"19043,99999","url":"xyz","port":"false","portable":"false"}
+    {"name":"26100.4946.69.6_7384790","build":"19043,99999","url":"https://github.com/valinet/ExplorerPatcher/releases/download/26100.4946.69.6_7384790/ep_setup.exe","port":"false","portable":"false"}
   ],
   "ModernMix":[
-    {"name":"Latest","build":"9600,9600","url":"xyz","port":"false","portable":"false"},
+    {"name":"Latest","build":"9600,9600","url":"https://www.stardock.com/products/modernmix/download","port":"false","portable":"false"},
     {"name":"Preactivated","build":"9600,9600","url":"xyz","port":"false","portable":"false"}
   ],
   "7zip":[
-    {"name":"Latest","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
+    {"name":"7-Zip 26.01","build":"9600,99999","url":"https://github.com/ip7z/7zip/releases/download/26.01/7z2601-x64.exe","port":"false","portable":"false"},
+    {"name":"7-Zip ZS 25.01","build":"9600,99999","url":"https://github.com/mcmilk/7-Zip-zstd/releases/download/v25.01-v1.5.7-R4/7z25.01-zstd-x64.exe","port":"false","portable":"false"}
   ],
   "WinRAR":[
-    {"name":"Latest","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
+    {"name":"winrar-x64-722","build":"9600,99999","url":"https://www.win-rar.com/fileadmin/winrar-versions/winrar-x64-722.exe","port":"false","portable":"false"}
   ],
   "Discord":[
-    {"name":"Latest Stable","build":"17763,99999","url":"xyz","port":"false","portable":"false"},
+    {"name":"Latest Stable","build":"17763,99999","url":"https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x64","port":"false","portable":"false"},
     {"name":"Latest 8.1","build":"9600,17762","url":"xyz","port":"false","portable":"false"}
   ],
-  "Notepad++":[
-    {"name":"Latest","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
-  ],
   "Sublime_Text":[
-    {"name":"Latest","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
+    {"name":"Latest","build":"9600,99999","url":"https://www.sublimetext.com/download_thanks?target=win-x64","port":"false","portable":"false"}
   ],
   "VSCodium":[
     {"name":"Latest","build":"10240,99999","url":"xyz","port":"false","portable":"false"}
