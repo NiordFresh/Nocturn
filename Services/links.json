@@ -1,11 +1,11 @@
 {
   "Ungoogled_Chromium":[
     {"name":"Latest","build":"10240,99999","url":"https://github.com/macchrome/winchrome/releases/download/v146.7680.213-M146.0.7680.213-r1582197-Win64/146.0.7680.213_ungoogled_mini_installer.exe","port":"false","portable":"false"},
-    {"name":"Latest","build":"9600,9600","url":"xyz","port":"false","portable":"false"},
-    {"name":"Latest by chinczyk 147","build":"9600,9600","url":"xyz","port":"true","portable":"false"}
+    {"name":"Latest","build":"9600,99600","url":"https://github.com/macchrome/winchrome/releases/download/v109.5414.120-M109.0.5414.120-r1070088-Win64/109.0.5414.120_ungoogled_mini_installer.exe","port":"false","portable":"false"},
+    {"name":"147.0.7727.102 (Unofficial Port)","build":"9600,99600","url":"https://github.com/e3kskoy7wqk/Chromium-for-windows-7-REWORK/releases/download/147.0.7727.102/ungoogled-chromium_147.0.7727.102-1.1_installer_x64.exe","port":"true","portable":"false"}
   ],
   "LibreWolf":[
-    {"name":"Latest","build":"10240,99999","url":"xyz","port":"false","portable":"false"},
+    {"name":"Latest","build":"10240,99999","url":"https://dl.librewolf.net/librewolf/150.0.1-1/librewolf-150.0.1-1-windows-x86_64-setup.exe","port":"false","portable":"false"},
     {"name":"Latest 115","build":"9600,9600","url":"xyz","port":"false","portable":"false"},
     {"name":"Latest - by nfx","build":"9600,9600","url":"xyz","port":"true","portable":"true"},
     {"name":"Latest - by chinczyk","build":"9600,9600","url":"xyz","port":"true","portable":"false"}
