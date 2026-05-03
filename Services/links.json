@@ -11,60 +11,72 @@
     {"name":"Latest - by chinczyk","build":"9600,9600","url":"xyz","port":"true","portable":"false"}
   ],
   "Helium":[
-    {"name":"Latest","build":"14393,99999","url":"xyz","port":"false","portable":"false"}
+    {"name":"v0.11.7.1","build":"14393,99999","url":"https://github.com/imputnet/helium-windows/releases/download/0.11.7.1/helium_0.11.7.1_x64-installer.exe","port":"false","portable":"false"}
   ],
   "Thorium":[
-    {"name":"Latest","build":"10240,99999","url":"xyz","port":"false","portable":"false"},
-    {"name":"109 Latest for W8.1","build":"9600,9600","url":"xyz","port":"false","portable":"false"}
+    {"name":"M138.0.7204.303 (AVX)","build":"10240,99999","url":"https://github.com/Alex313031/Thorium-Win/releases/download/M138.0.7204.303/thorium_AVX_mini_installer.exe","port":"false","portable":"false"},
+    {"name":"M138.0.7204.303 (SEE4)","build":"10240,99999","url":"https://github.com/Alex313031/Thorium-Win/releases/download/M138.0.7204.303/thorium_SSE4_mini_installer.exe","port":"false","portable":"false"},
+    {"name":"M138.0.7204.303 (SEE3)","build":"10240,99999","url":"https://github.com/Alex313031/Thorium-Win/releases/download/M138.0.7204.303/thorium_SEE3_mini_installer.exe","port":"false","portable":"false"},
+    {"name":"M122.0.6261.171 (SEE3)","build":"9600,9600","url":"https://github.com/Alex313031/thorium-legacy/releases/download/M122.0.6261.171/thorium_WIN32_SSE3_mini_installer.exe","port":"false","portable":"false"},
+    {"name":"M122.0.6261.171 (SEE2)","build":"9600,9600","url":"https://github.com/Alex313031/thorium-legacy/releases/download/M122.0.6261.171/thorium_WIN32_SSE2_mini_installer.exe","port":"false","portable":"false"}
   ],
   "Mercury":[
-    {"name":"Latest","build":"10240,99999","url":"xyz","port":"false","portable":"false"},
-    {"name":"Latest for Windows 8.1","build":"9600,9600","url":"xyz","port":"false","portable":"false"},
-    {"name":"Latest for Windows 8.1","build":"9600,9600","url":"xyz","port":"false","portable":"false"}
+    {"name":"v.129.0.2 (AVX)","build":"10240,99999","url":"https://github.com/Alex313031/Mercury/releases/download/v.129.0.2/mercury_129.0.2_win64_AVX_installer.exe","port":"false","portable":"false"},
+    {"name":"v.129.0.2 (SEE4)","build":"10240,99999","url":"https://github.com/Alex313031/Mercury/releases/download/v.129.0.2/mercury_129.0.2_win64_SSE4_installer.exe","port":"false","portable":"false"},
+    {"name":"v.129.0.2 (SEE3)","build":"10240,99999","url":"https://github.com/Alex313031/Mercury/releases/download/v.129.0.2/mercury_129.0.2_win64_SSE3_installer.exe","port":"false","portable":"false"},
+    {"name":"v.115.11.0 (AVX)","build":"9600,9600","url":"https://github.com/Alex313031/Mercury-Win7/releases/download/v.115.11.0/mercury_115.11.0_win64_AVX_installer.exe","port":"false","portable":"false"},
+    {"name":"v.115.11.0 (SEE4)","build":"9600,9600","url":"https://github.com/Alex313031/Mercury-Win7/releases/download/v.115.11.0/mercury_115.11.0_win64_SEE4_installer.exe","port":"false","portable":"false"},
+    {"name":"v.115.11.0 (SEE3)","build":"9600,9600","url":"https://github.com/Alex313031/Mercury-Win7/releases/download/v.115.11.0/mercury_115.11.0_win64_SEE3_installer.exe","port":"false","portable":"false"}
   ],
   "Waterfox":[
-    {"name":"Latest","build":"10240,99999","url":"xyz","port":"false","portable":"false"},
-    {"name":"Latest for Windows 8.1","build":"9600,9600","url":"xyz","port":"false","portable":"false"}
+    {"name":"6.6.12","build":"10240,99999","url":"https://cdn.waterfox.com/waterfox/releases/6.6.12/WINNT_x86_64/Waterfox%20Setup%206.6.12.exe","port":"false","portable":"false"},
+    {"name":"G6.0.20","build":"9600,9600","url":"https://cdn.waterfox.com/waterfox/releases/G6.0.20/WINNT_x86_64/Waterfox%20Setup%20G6.0.20.exe","port":"false","portable":"false"}
   ],
   "RedFox":[
-    {"name":"Latest ESR 140","build":"9600,99999","url":"xyz","port":"false","portable":"false"},
-    {"name":"Latest ESR 128","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
+    {"name":"v150.0b10","build":"9600,99999","url":"https://github.com/Eclipse-Community/r3dfox/releases/download/v150.0b10/r3dfox-150.0b10.en-US.win64.installer.exe","port":"false","portable":"false"},
+    {"name":"v140.8.0esr","build":"9600,99999","url":"https://github.com/Eclipse-Community/r3dfox/releases/download/v140.8.0esr/r3dfox_esr-140.8.0.en-US.win64.installer.exe","port":"false","portable":"false"},
+    {"name":"v128.14.1esr","build":"9600,99999","url":"https://github.com/Eclipse-Community/r3dfox/releases/download/v128.14.1-4esr/r3dfox_esr-128.14.1.en-US.win64.installer.exe","port":"false","portable":"false"}
   ],
   "Firefox":[
-    {"name":"Latest ESR","build":"10240,99999","url":"xyz","port":"false","portable":"false"},
-    {"name":"Latest Stable","build":"10240,99999","url":"xyz","port":"false","portable":"false"},
-    {"name":"Latest Beta","build":"10240,99999","url":"xyz","port":"false","portable":"false"},
-    {"name":"Latest Developer Edition","build":"10240,99999","url":"xyz","port":"false","portable":"false"},
-    {"name":"Latest ESR 115","build":"9600,99999","url":"xyz","port":"false","portable":"false"},
-    {"name":"Firefox for Windows 75","build":"9600,99999","url":"xyz","port":"false","portable":"false"},
-    {"name":"Firefox for Windows 7wsfs5","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
+    {"name":"Latest ESR","build":"10240,99999","url":"https://download.mozilla.org/?product=firefox-esr-msi-latest-ssl&os=win64&lang=en-US","port":"false","portable":"false"},
+    {"name":"Latest Stable","build":"10240,99999","url":"https://download.mozilla.org/?product=firefox-msi-latest-ssl&os=win64&lang=en-US","port":"false","portable":"false"},
+    {"name":"Latest Beta","build":"10240,99999","url":"https://download.mozilla.org/?product=firefox-beta-msi-latest-ssl&os=win64&lang=en-US","port":"false","portable":"false"},
+    {"name":"Latest Developer Edition","build":"10240,99999","url":"https://download.mozilla.org/?product=firefox-devedition-msi-latest-ssl&os=win64&lang=en-US","port":"false","portable":"false"},
+    {"name":"Latest ESR 115","build":"9600,99999","url":"https://download.mozilla.org/?product=firefox-esr115-msi-latest-ssl&os=win64&lang=en-US","port":"false","portable":"false"},
+    {"name":"152.0a1 | Port","build":"9600,9600","url":"https://github.com/e3kskoy7wqk/Firefox-for-windows-7/releases/download/152.0a1-v2/firefox-152.0a1.en-US.win64.installer.exe","port":"false","portable":"false"},
+    {"name":"140.11.0 | Port","build":"9600,9600","url":"https://github.com/e3kskoy7wqk/Firefox-for-windows-7/releases/download/140.11.0/firefox-140.11.0.en-US.win64.installer.exe","port":"false","portable":"false"}
   ],
   "Mullvad_Browser":[
-    {"name":"Latest","build":"10240,99999","url":"xyz","port":"false","portable":"false"},
-    {"name":"109 Latest for W8.1","build":"9600,9600","url":"xyz","port":"false","portable":"false"}
+    {"name":"Latest","build":"10240,99999","url":"https://mullvad.net/en/download/browser/win64/latest","port":"false","portable":"false"},
+    {"name":"15.0.10_ESR140.10.0","build":"9600,9600","url":"https://github.com/NiordFresh/MullvadBrowser-for-Windows-8/releases/download/15.0.10_ESR140.10.0/mullvadbrowser_15.0.10_ESR140.10.0_win8_portable-NFX.zip","port":"false","portable":"false"}
   ],
   "Chromium":[
-    {"name":"Latest (Hibbiki)","build":"10240,99999","url":"xyz","port":"false","portable":"false"},
-    {"name":"Latest (Hibbiki) (W8.1)","build":"9600,9600","url":"xyz","port":"false","portable":"false"},
-    {"name":"Latest (RobRich)","build":"10240,99999","url":"xyz","port":"false","portable":"false"},
-    {"name":"109 (RobRich) (W8.1)","build":"9600,9600","url":"xyz","port":"false","portable":"false"},
-    {"name":"Latest-Chrfor7","build":"9600,9600","url":"xyz","port":"false","portable":"false"}
+    {"name":"v147.0.7727.138-r1596535 (Hibbiki)","build":"10240,99999","url":"https://github.com/Hibbiki/chromium-win64/releases/download/v147.0.7727.138-r1596535/mini_installer.exe","port":"false","portable":"false"},
+    {"name":"v109.0.5414.120-r1070088 (Hibbiki) (W8.1)","build":"9600,9600","url":"https://github.com/Hibbiki/chromium-win64/releases/download/v109.0.5414.120-r1070088/mini_installer.nosync.exe","port":"false","portable":"false"},
+    {"name":"v149.0.7785.0-r1613160-win64-avx Latest (RobRich AVX)","build":"10240,99999","url":"https://github.com/RobRich999/Chromium_Clang/releases/download/v149.0.7785.0-r1613160-win64-avx/mini_installer.exe","port":"false","portable":"false"},
+    {"name":"v149.0.7785.0-r1613160-win64-avx2 Latest (RobRich AVX2)","build":"10240,99999","url":"https://github.com/RobRich999/Chromium_Clang/releases/download/v149.0.7785.0-r1613160-win64-avx2/mini_installer.exe","port":"false","portable":"false"},
+    {"name":"v148.0.7778.96 | port","build":"9600,9600","url":"https://github.com/e3kskoy7wqk/Chromium-for-windows-7-REWORK/releases/download/148.0.7778.96/mini_installer_x64.exe","port":"false","portable":"false"}
   ],
   "Google_Chrome":[
-    {"name":"Latest Stable","build":"10240,99999","url":"xyz","port":"false","portable":"false"},
-    {"name":"Latest Beta","build":"10240,99999","url":"xyz","port":"false","portable":"false"},
-    {"name":"Latest 8.1","build":"9600,9600","url":"xyz","port":"false","portable":"false"},
-    {"name":"Latest 8.1 by Blaukovitch","build":"9600,9600","url":"xyz","port":"false","portable":"false"}
+    {"name":"Latest Stable","build":"10240,99999","url":"https://dl.google.com/chrome/install/ChromeStandaloneSetup64.exe","port":"false","portable":"false"},
+    {"name":"Latest Beta","build":"10240,99999","url":"https://dl.google.com/chrome/install/beta/ChromeBetaStandaloneSetup64.exe","port":"false","portable":"false"},
+    {"name":"Latest Dev","build":"10240,99999","url":"https://dl.google.com/chrome/install/dev/ChromeDevStandaloneSetup64.exe","port":"false","portable":"false"},
+    {"name":"Enterprise","build":"10240,99999","url":"https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi","port":"false","portable":"false"},
+    {"name":"Enterprise Beta","build":"10240,99999","url":"https://dl.google.com/dl/chrome/install/beta/googlechromebetastandaloneenterprise64.msi","port":"false","portable":"false"},
+    {"name":"Enterprise Dev","build":"10240,99999","url":"https://dl.google.com/dl/chrome/install/dev/googlechromedevstandaloneenterprise64.msi","port":"false","portable":"false"},
+    {"name":"109.0.5414.120","build":"9600,9600","url":"https://www.google.com/dl/release2/chrome/czao2hrvpk5wgqrkz4kks5r734_109.0.5414.120/109.0.5414.120_chrome_installer.exe","port":"false","portable":"false"},
+    {"name":"145.0.7632.117_LTS by Blaukovitch","build":"9600,9600","url":"https://mega.nz/file/LxBRBCLS#125W1jfSTH-xgTLJRsI2XB6C6x54xB4dmvlF-9NIgic","port":"false","portable":"false"}
   ],
   "Brave":[
-    {"name":"Latest","build":"10240,99999","url":"xyz","port":"false","portable":"false"}
+    {"name":"Latest","build":"10240,99999","url":"https://laptop-updates.brave.com/latest/winx64","port":"false","portable":"false"},
+    {"name":"Latest Beta","build":"10240,99999","url":"https://laptop-updates.brave.com/latest/winx64/beta","port":"false","portable":"false"}
   ],
   "Supermium":[
-    {"name":"Latest","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
+    {"name":"144.0.7559.247 R2","build":"9600,99999","url":"https://download.win32subsystem.live/supermium/releases/v144-r2/supermium_144_64_setup.exe","port":"false","portable":"false"}
   ],
   "Tor_Browser":[
-    {"name":"Latest","build":"10240,99999","url":"xyz","port":"false","portable":"false"},
-    {"name":"109 Latest for W8.1","build":"9600,9600","url":"xyz","port":"false","portable":"false"}
+    {"name":"Latest","build":"10240,99999","url":"https://www.torproject.org/dist/torbrowser/15.0.11/tor-browser-windows-x86_64-portable-15.0.11.exe","port":"false","portable":"false"},
+    {"name":"15.0.10_ESR140.10.0","build":"9600,9600","url":"https://github.com/NiordFresh/TorBrowser-for-Windows-8/releases/download/15.0.10_ESR140.10.0/torbrowser_15.0.10_ESR140.10.0_win8_portable-NFX.zip","port":"false","portable":"false"}
   ],
   "Start_Menu":[
     {"name":"Latest","build":"9600,9600","url":"xyz","port":"false","portable":"false"},
