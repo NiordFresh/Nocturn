@@ -140,31 +140,31 @@
     {"name":"Portable","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
   ],
   "SDIO":[
-    {"name":"Latest","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
+    {"name":"1.18.0.830","build":"9600,99999","url":"https://www.glenn.delahoy.com/downloads/sdio/SDIO_1.18.0.830.zip","port":"false","portable":"false"}
   ],
   "NVCleanstall":[
-    {"name":"Latest","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
+    {"name":"1.19.0","build":"9600,99999","url":"https://download.instalki.org/programy/Windows/Narzedzia/zarzadzanie_sterownikami/NVCleanstall_1.19.0.exe","port":"false","portable":"false"}
   ],
   "NVIDIAControlPanel":[
     {"name":"Latest","build":"14393,99999","url":"xyz","port":"false","portable":"false"}
   ],
   "AMDRadeon":[
-    {"name":"Latest","build":"17763,99999","url":"xyz","port":"false","portable":"false"}
+    {"name":"26.3.1-web","build":"17763,99999","url":"https://drivers.amd.com/drivers/installer/25.30/whql/amd-software-adrenalin-edition-26.3.1-minimalsetup-260317_web.exe","port":"false","portable":"false"}
   ],
   "NvidiaProfileInspector":[
-    {"name":"Latest","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
+    {"name":"Latest","build":"9600,99999","url":"https://github.com/Orbmu2k/nvidiaProfileInspector/releases/download/2.4.0.31/nvidiaProfileInspector.zip","port":"false","portable":"false"}
   ],
   "MSIAfterburner":[
-    {"name":"Latest","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
+    {"name":"Latest","build":"9600,99999","url":"https://download.instalki.org/programy/Windows/Narzedzia/testowanie_i_diagnostyka/MSIAfterburnerSetup.zip","port":"false","portable":"false"}
   ],
   "ASUSGPUTweak":[
-    {"name":"Latest","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
+    {"name":"v2117","build":"9600,99999","url":"https://dlcdnets.asus.com/pub/ASUS/Graphic%20Card/Unique_Applications/GPU-Tweak-III-v2117.zip","port":"false","portable":"false"}
   ],
   "QuickCPU":[
-    {"name":"Latest","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
+    {"name":"Latest","build":"9600,99999","url":"https://www.coderbag.com/assets/downloads/cpm/currentversion/QuickCpuSetup.msi","port":"false","portable":"false"}
   ],
   "MemReduct":[
-    {"name":"Latest","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
+    {"name":"v.3.5.2","build":"9600,99999","url":"https://github.com/henrypp/memreduct/releases/download/v.3.5.2/memreduct-3.5.2-setup.exe","port":"false","portable":"false"}
   ],
   "OldNewExplorer":[
     {"name":"Latest","build":"9600,99999","url":"https://www.majorgeeks.com/mg/getmirror/oldnewexplorer,1.html","port":"false","portable":"false"}
