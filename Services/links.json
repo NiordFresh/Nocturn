@@ -81,10 +81,7 @@
   "SiB":[
     {"name":"Latest","build":"9600,9600","url":"https://pby.ru/StartIsBackPlus_setup.exe","port":"false","portable":"false"},
     {"name":"Latest","build":"10240,21000","url":"https://startisback.sfo3.cdn.digitaloceanspaces.com/StartIsBackPlusPlus_setup.exe","port":"false","portable":"false"},
-    {"name":"Latest","build":"22000,99999","url":"https://www.startallback.com/download.php","port":"false","portable":"false"},
-    {"name":"Preactivated","build":"9600,9600","url":"xyz","port":"false","portable":"false"},
-    {"name":"Preactivated","build":"10240,19046","url":"xyz","port":"false","portable":"false"},
-    {"name":"Preactivated","build":"22000,99999","url":"xyz","port":"false","portable":"false"}
+    {"name":"Latest","build":"22000,99999","url":"https://www.startallback.com/download.php","port":"false","portable":"false"}
   ],
   "ExplorerPatcher":[
     {"name":"26100.4946.69.6_7384790","build":"19043,99999","url":"https://github.com/valinet/ExplorerPatcher/releases/download/26100.4946.69.6_7384790/ep_setup.exe","port":"false","portable":"false"}
@@ -129,7 +126,7 @@
     {"name":"Latest","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
   ],
   "VLC":[
-    {"name":"Latest","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
+    {"name":"vlc-3.0.23-win64","build":"9600,99999","url":"https://get.videolan.org/vlc/3.0.23/win64/vlc-3.0.23-win64.exe","port":"false","portable":"false"}
   ],
   "AIMP":[
     {"name":"Latest","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
@@ -170,19 +167,19 @@
     {"name":"Latest","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
   ],
   "OldNewExplorer":[
-    {"name":"Latest","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
+    {"name":"Latest","build":"9600,99999","url":"https://www.majorgeeks.com/mg/getmirror/oldnewexplorer,1.html","port":"false","portable":"false"}
   ],
   "Lively_Wallpaper":[
     {"name":"Latest","build":"18362,99999","url":"xyz","port":"false","portable":"false"}
   ],
   "Nexus":[
-    {"name":"Latest","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
+    {"name":"Latest","build":"9600,99999","url":"https://winstep.net/nexus.zip","port":"false","portable":"false"}
   ],
   "Rainmeter":[
-    {"name":"Latest","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
+    {"name":"Rainmeter-4.5.23.exe","build":"9600,99999","url":"https://builds.rainmeter.net/Rainmeter-4.5.23.exe","port":"false","portable":"false"}
   ],
   "Files":[
-    {"name":"Latest","build":"18600,99999","url":"xyz","port":"false","portable":"false"}
+    {"name":"Stable","build":"17762,99999","url":"https://cdn.files.community/files/stable/Files.Package.appinstaller","port":"false","portable":"false"}
   ],
   "Groove_Music":[
     {"name":"2019.22031.10091.0","build":"19043,99999","url":"xyz","port":"false","portable":"false"},
