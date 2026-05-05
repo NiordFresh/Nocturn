@@ -1,5 +1,5 @@
 {
-  "Ungoogled_Chromium":[
+  "UngoogledChromium":[
     {"name":"Latest","build":"10240,99999","url":"https://github.com/macchrome/winchrome/releases/download/v146.7680.213-M146.0.7680.213-r1582197-Win64/146.0.7680.213_ungoogled_mini_installer.exe","port":"false","portable":"false"},
     {"name":"Latest","build":"9600,99600","url":"https://github.com/macchrome/winchrome/releases/download/v109.5414.120-M109.0.5414.120-r1070088-Win64/109.0.5414.120_ungoogled_mini_installer.exe","port":"false","portable":"false"},
     {"name":"147.0.7727.102 (Unofficial Port)","build":"9600,99600","url":"https://github.com/e3kskoy7wqk/Chromium-for-windows-7-REWORK/releases/download/147.0.7727.102/ungoogled-chromium_147.0.7727.102-1.1_installer_x64.exe","port":"true","portable":"false"}
@@ -46,7 +46,7 @@
     {"name":"152.0a1 | Port","build":"9600,9600","url":"https://github.com/e3kskoy7wqk/Firefox-for-windows-7/releases/download/152.0a1-v2/firefox-152.0a1.en-US.win64.installer.exe","port":"false","portable":"false"},
     {"name":"140.11.0 | Port","build":"9600,9600","url":"https://github.com/e3kskoy7wqk/Firefox-for-windows-7/releases/download/140.11.0/firefox-140.11.0.en-US.win64.installer.exe","port":"false","portable":"false"}
   ],
-  "Mullvad_Browser":[
+  "MullvadBrowser":[
     {"name":"Latest","build":"10240,99999","url":"https://mullvad.net/en/download/browser/win64/latest","port":"false","portable":"false"},
     {"name":"15.0.10_ESR140.10.0","build":"9600,9600","url":"https://github.com/NiordFresh/MullvadBrowser-for-Windows-8/releases/download/15.0.10_ESR140.10.0/mullvadbrowser_15.0.10_ESR140.10.0_win8_portable-NFX.zip","port":"false","portable":"false"}
   ],
@@ -57,7 +57,7 @@
     {"name":"v149.0.7785.0-r1613160-win64-avx2 Latest (RobRich AVX2)","build":"10240,99999","url":"https://github.com/RobRich999/Chromium_Clang/releases/download/v149.0.7785.0-r1613160-win64-avx2/mini_installer.exe","port":"false","portable":"false"},
     {"name":"v148.0.7778.96 | port","build":"9600,9600","url":"https://github.com/e3kskoy7wqk/Chromium-for-windows-7-REWORK/releases/download/148.0.7778.96/mini_installer_x64.exe","port":"false","portable":"false"}
   ],
-  "Google_Chrome":[
+  "GoogleChrome":[
     {"name":"Latest Stable","build":"10240,99999","url":"https://dl.google.com/chrome/install/ChromeStandaloneSetup64.exe","port":"false","portable":"false"},
     {"name":"Latest Beta","build":"10240,99999","url":"https://dl.google.com/chrome/install/beta/ChromeBetaStandaloneSetup64.exe","port":"false","portable":"false"},
     {"name":"Latest Dev","build":"10240,99999","url":"https://dl.google.com/chrome/install/dev/ChromeDevStandaloneSetup64.exe","port":"false","portable":"false"},
@@ -74,7 +74,7 @@
   "Supermium":[
     {"name":"144.0.7559.247 R2","build":"9600,99999","url":"https://download.win32subsystem.live/supermium/releases/v144-r2/supermium_144_64_setup.exe","port":"false","portable":"false"}
   ],
-  "Tor_Browser":[
+  "TorBrowser":[
     {"name":"Latest","build":"10240,99999","url":"https://www.torproject.org/dist/torbrowser/15.0.11/tor-browser-windows-x86_64-portable-15.0.11.exe","port":"false","portable":"false"},
     {"name":"15.0.10_ESR140.10.0","build":"9600,9600","url":"https://github.com/NiordFresh/TorBrowser-for-Windows-8/releases/download/15.0.10_ESR140.10.0/torbrowser_15.0.10_ESR140.10.0_win8_portable-NFX.zip","port":"false","portable":"false"}
   ],
@@ -101,7 +101,7 @@
     {"name":"Latest Stable","build":"17763,99999","url":"https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x64","port":"false","portable":"false"},
     {"name":"Latest 8.1","build":"9600,17762","url":"xyz","port":"false","portable":"false"}
   ],
-  "Sublime_Text":[
+  "SublimeText":[
     {"name":"Latest","build":"9600,99999","url":"https://www.sublimetext.com/download_thanks?target=win-x64#direct-downloads","port":"false","portable":"false"}
   ],
   "VSCodium":[
@@ -116,13 +116,13 @@
     {"name":"Latest","build":"9600,9600","url":"xyz","port":"false","portable":"false"},
     {"name":"Latest 8.1","build":"9600,9600","url":"xyz","port":"false","portable":"false"}
   ],
-  "System_Informer":[
+  "SystemInformer":[
     {"name":"Latest","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
   ],
-  "APPX_Installer":[
+  "APPXInstaller":[
     {"name":"Latest","build":"10240,99999","url":"xyz","port":"false","portable":"true"}
   ],
-  "MPC_BE":[
+  "MPC-BE":[
     {"name":"Latest","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
   ],
   "VLC":[
@@ -135,7 +135,7 @@
     {"name":"Latest","build":"10240,99999","url":"xyz","port":"false","portable":"false"},
     {"name":"2.0.10","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
   ],
-  "Driver_Booster":[
+  "DriverBooster":[
     {"name":"Latest","build":"9600,99999","url":"xyz","port":"false","portable":"false"},
     {"name":"Portable","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
   ],
@@ -145,19 +145,19 @@
   "NVCleanstall":[
     {"name":"Latest","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
   ],
-  "NVIDIA_Control_Panel":[
+  "NVIDIAControlPanel":[
     {"name":"Latest","build":"14393,99999","url":"xyz","port":"false","portable":"false"}
   ],
-  "AMD_Radeon":[
+  "AMDRadeon":[
     {"name":"Latest","build":"17763,99999","url":"xyz","port":"false","portable":"false"}
   ],
   "NvidiaProfileInspector":[
     {"name":"Latest","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
   ],
-  "MSI_Afterburner":[
+  "MSIAfterburner":[
     {"name":"Latest","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
   ],
-  "ASUS_GPU_Tweak":[
+  "ASUSGPUTweak":[
     {"name":"Latest","build":"9600,99999","url":"xyz","port":"false","portable":"false"}
   ],
   "QuickCPU":[
@@ -169,7 +169,7 @@
   "OldNewExplorer":[
     {"name":"Latest","build":"9600,99999","url":"https://www.majorgeeks.com/mg/getmirror/oldnewexplorer,1.html","port":"false","portable":"false"}
   ],
-  "Lively_Wallpaper":[
+  "LivelyWallpaper":[
     {"name":"Latest","build":"18362,99999","url":"xyz","port":"false","portable":"false"}
   ],
   "Nexus":[
@@ -181,7 +181,7 @@
   "Files":[
     {"name":"Stable","build":"17762,99999","url":"https://cdn.files.community/files/stable/Files.Package.appinstaller","port":"false","portable":"false"}
   ],
-  "Groove_Music":[
+  "GrooveMusic":[
     {"name":"2019.22031.10091.0","build":"19043,99999","url":"xyz","port":"false","portable":"false"},
     {"name":"2019.20112.10111.0","build":"17763,99999","url":"xyz","port":"false","portable":"false"},
     {"name":"2019.18052.11111.0","build":"14393,99999","url":"xyz","port":"false","portable":"false"},
@@ -195,7 +195,7 @@
     {"name":"2017.35063.44410.1000","build":"17763,99999","url":"xyz","port":"false","portable":"false"},
     {"name":"2016.1118.10000.2000","build":"17763,99999","url":"xyz","port":"false","portable":"false"}
   ],
-  "Movies_TV":[
+  "MoviesTV":[
     {"name":"2019.22091.10061.0","build":"19043,99999","url":"xyz","port":"false","portable":"false"},
     {"name":"2019.20112.10111.0","build":"17763,99999","url":"xyz","port":"false","portable":"false"},
     {"name":"2019.18052.10711.0","build":"14393,99999","url":"xyz","port":"false","portable":"false"}
